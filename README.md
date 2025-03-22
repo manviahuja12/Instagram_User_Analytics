@@ -1,4 +1,4 @@
-# Instagram User Analytics
+# Instagram User Analytics 
 
 ## Objective
 The project analyzes an Instagram-like database to uncover key insights about user interactions, content engagement, and social connections. By writing SQL queries, the goal was to extract meaningful patterns related to user activity, photo popularity, and network relationships.
